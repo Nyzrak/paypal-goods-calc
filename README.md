@@ -1,4 +1,4 @@
-# Paypal Goods & Services Calculator
+# 🖩 Paypal Goods & Services Calculator
 
 This Django-Project is for calculating the Goods & Services fees when a buying a product via Paypal.
 
