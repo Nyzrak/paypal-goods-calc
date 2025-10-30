@@ -42,7 +42,7 @@ To start the development server, run:
 python manage.py runserver
 ```
 
-### If you find any errors or have ideas you can always let me know by either forking the repo, creating an issue or even text me on discord.
+### If you find any errors or have ideas you can always let me know by either forking the repo and contributing, creating an issue or even text me on discord.
 I'll appreciate it :)
 
 Thank you for reading this
