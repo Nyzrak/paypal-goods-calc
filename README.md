@@ -16,7 +16,29 @@ It gives you calculations for payments with:
 ### Feel free to contribute to this project and help me make it even better. I will provide a domain and a Webserver where this project will be hosted.
 
 ## Setup
-To set the project up you have to run it into a virtual environment (venv)
+
+> **If you have just installed you can easily run these commands using the justfile**<br>
+> If you don't have just installed you need to scroll a bit down (I'm very sorry :/)
+
+Create venv:
+```bash
+just create-venv
+```
+Activate venv:
+```bash
+just venv
+```
+Deactivate venv:
+```bash
+just deactivate
+```
+Start development server:
+```bash
+just up
+```
+> **Inside the justfile you will find more commands. These are just the base/most important commands**
+
+To set the project up *without just* you have to run it into a virtual environment (venv)
 cd into the project root, then run:
 ```bash
 python3 -m venv .venv
