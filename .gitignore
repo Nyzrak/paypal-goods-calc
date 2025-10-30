@@ -5,5 +5,10 @@ __pycache__/
 *.log
 media/
 staticfiles/
+
+# IDE files
 .idea/
+
+# env files
 .env
+.env.prod
